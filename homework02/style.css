@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #f0f0f0;
+}
+
+.header{
+    color: #303b44;
+}
+
+.content{
+    max-width: 800px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+div, h1, h2{
+    width: 800px; 
+    padding: 10px 50px 10px 20px;
+}
+
+p, ol, ul{
+    width: 750px;
+    text-align: justify;
+    padding: 10px 30px 10px 20px;
+}
+
+li{
+    line-height: 2.5;
+}
+
+.href_original_head{
+    width: 750px;
+    background-color: #98917f;
+    
+}
+.href_original{
+    text-decoration: none;
+    color: #000000 ;
+}
