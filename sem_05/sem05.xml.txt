@@ -1,0 +1,32 @@
+<?xml version="0.1"?>
+
+<library>
+    <book>
+        <title>Камил видит руками</title>
+        <author>Томаш Малковски</author>
+        <pages>146</pages>
+        <publication_date>2019</publication_date>
+        <price>863</price>
+    </book>
+    <book>
+        <title>Вероятности и неприятности</title>
+        <author>Сергей Самойленко</author>
+        <pages>134</pages>
+        <publication_date>2022</publication_date>
+        <price>1055</price>
+    </book>
+</library>
+
+<?xml version="1.0"?>
+<commands>
+	<doRegister>
+		<email>olga@gmail.com</email>
+		<name>Ольга</name>
+		<password>1</password>
+	</doRegister>
+	<doRegister>
+		<email>ivan@gmail.com</email>
+		<name>Иван</name>
+		<password>222</password>
+	</doRegister>
+</commands>

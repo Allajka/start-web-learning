@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Яблоки",
+    "weight": 1000,
+    "group": "Фрукты",
+    "price": 150,
+    "stock": 1
+  },
+  {
+    "name": "Картошка ранняя",
+    "weight": 5000,
+    "group": "Овощи",
+    "price": 320,
+    "stock": 2
+  }
+]
+
+[
+  {
+  "query": "Виктор Иван",
+  "count": 7,
+  "parts": ["NAME", "SURNAME"]
+  }
+]
+
+[
+  {
+    "name": "Иван",
+    "surname": "Иванов",
+    "age": 37,
+    "Hobbies": ["рыбалка", "охота", "футбол"],
+    "married": true,
+    "children": ["Мария", "Николай"]
+  },
+  {
+    "name": "Ольга",
+    "surname": "Фролова",
+    "age": 21,
+    "Hobbies": ["путешествия", "вышивание"],
+    "married": false,
+    "children": []
+  }
+]
